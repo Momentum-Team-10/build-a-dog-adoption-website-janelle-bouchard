@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box; 
+    margin: 0;
+}
+body {
+    font-family: "open sans", sans-serif;
+}
+header {
+    background-color: navy;
+    padding: 30px;
+    width: 100%;
+}
+h1 {
+    color: white;
+    font-family:sans-serif
+    font-weight: 
+}
+.container {
+    display: flex; 
+    flex-direction: row; 
+    justify-content: space-evenly;
+}
+.button {
+    color: black; 
+    background-color: turquoise; 
+    border-radius: 5px;
+}
+footer {
+    
+}
