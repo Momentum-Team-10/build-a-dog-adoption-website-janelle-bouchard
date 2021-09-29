@@ -1,0 +1,15 @@
+body {
+    font-family: open sans; 
+}
+header {
+    background-color: navy; padding: 30px; width: 100%;
+}
+h1 {
+    color: white; 
+}
+.container {
+    display: flex; flex-direction: row; justify-content: space-evenly;
+}
+.button {
+    color: black; background-color: turquoise; border-radius: 5px;
+}
