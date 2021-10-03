@@ -33,11 +33,11 @@ main {
     flex-wrap: wrap;
     margin-bottom: 30px;
 }
-img.dog {
-    /* height: 300px;
+/* img.dog {
+    height: 300px;
     width: 300px;
-    object-fit: cover; */
-}
+    object-fit: cover;
+} */
 .tags {
     display: flex; 
     flex-direction: row; 
@@ -48,7 +48,7 @@ img.dog {
 }
 .tags p {
     font-size: 15px;
-    font-weight: ;
+    font-weight: 10;
     padding: 2px 5px;
     margin: 2px;
     background-color: #89DEEF;
